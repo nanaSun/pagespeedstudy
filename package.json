@@ -1,0 +1,17 @@
+{
+  "name": "pagespeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "ngrok": "^2.2.9",
+    "psi": "^3.0.0"
+  }
+}
